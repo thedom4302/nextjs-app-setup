@@ -1,0 +1,20 @@
+{
+  "app/dashboard/page.tsx -> ./EMRListing": {
+    "id": 3110,
+    "files": [
+      "static/chunks/110.391e787218e107db.js"
+    ]
+  },
+  "app/dashboard/page.tsx -> ./SearchTool": {
+    "id": 1788,
+    "files": [
+      "static/chunks/788.9ee136c4b5d36dc6.js"
+    ]
+  },
+  "app/dashboard/page.tsx -> ./Stocktake": {
+    "id": 9653,
+    "files": [
+      "static/chunks/653.224f18d4be85957e.js"
+    ]
+  }
+}
